@@ -6,6 +6,7 @@
             "Gammer42\\DynaResponse\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "Muhammad Salman Hider",
